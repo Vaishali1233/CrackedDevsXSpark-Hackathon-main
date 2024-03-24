@@ -29,6 +29,9 @@ Accessibility: We strive to make Safar Saathi accessible to all users, regardles
 -Tailwind CSS
 -Vite
 
+ONE PAGER- https://docs.google.com/document/d/1fHqj3Y2ZqzWBjICh3eoQ6fbTAiB2ybEJN7je9zaiKMQ/edit
+WORKING DEMO DEPLOYED ON NETLIFY- https://safarsaathi.netlify.app/
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
