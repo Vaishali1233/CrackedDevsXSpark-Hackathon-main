@@ -1,10 +1,6 @@
 import { initializeApp } from "firebase/app";
 import { getAuth, GoogleAuthProvider, signInWithPopup } from "firebase/auth";
 
-// Your web app's Firebase configuration
-// For Firebase JS SDK v7.20.0 and later, measurementId is optional
-import { initializeApp } from "firebase/app";
-import { getAuth, GoogleAuthProvider, signInWithPopup } from "firebase/auth";
 
 // Initialize Firebase
 const firebaseConfig = {
@@ -16,6 +12,7 @@ const firebaseConfig = {
   appId: "1:589292038744:web:1186f0854985d02749782d",
   measurementId: "G-61FZ4627RM"
 };
+
 
 const app = initializeApp(firebaseConfig);
 export const auth = getAuth(app);
@@ -47,9 +44,3 @@ export const signInWithGoogle = () => {
   });
 };
 
-// HERE Maps API Initialization
-const platform = new H.service.Platform({
-  apikey: 'wX8XPC8nafBavveQLDl9NxshWXONNrU4oemMWlNQ_iI'
-});
-
-// Use platform to access other HERE Maps API services like geolocation, routing, etc.
