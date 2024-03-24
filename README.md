@@ -1,12 +1,12 @@
-# Safar Sarthi - Your Trip Planner
+# Safar Saathi - Your Trip Planner
 
 Description
-Safar Sarthi is an innovative AI-powered platform designed to simplify the process of trip planning. With Safar Sarthi, users can effortlessly create customized travel plans tailored to their preferences, interests, and requirements. Whether you're planning a solo adventure, a family vacation, or a group getaway with friends, Safar Sarthi has got you covered. Our platform utilizes cutting-edge technology to provide unbiased recommendations and suggestions, empowering users to explore new destinations and make the most out of their travel experiences.
+Safar Saathi is an innovative AI-powered platform designed to simplify the process of trip planning. With Safar Saathi, users can effortlessly create customized travel plans tailored to their preferences, interests, and requirements. Whether you're planning a solo adventure, a family vacation, or a group getaway with friends, Safar Saathi has got you covered. Our platform utilizes cutting-edge technology to provide unbiased recommendations and suggestions, empowering users to explore new destinations and make the most out of their travel experiences.
 Instructions to Run the Project
 1. Install dependencies using npm: npm install 
 2. Start the development server: npm run dev
 
-Open your web browser and visit http://localhost:3000 to access Safar Sarthi.
+Open your web browser and visit http://localhost:3000 to access Safar Saathi.
 Note: Generate your own firebase api and here api.
 
 Data Privacy: Safar Saathi prioritizes user privacy and security. We employ industry-standard practices to safeguard user data and ensure confidentiality.
